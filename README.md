@@ -1,0 +1,2 @@
+# JOSEPHUS
+Python ~~~ Josephus algorithm
